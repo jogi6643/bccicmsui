@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* Tablets */
+
+@media (min-width:1281px) {}
+
+
+
+/* Tablet Horizontal */ 
+@media (min-width:980px) and (max-width:1024px){}
+
+
+/* Tablet Verticale  */
+@media (min-width:768px) and (max-width:979px){}
+
+/* Mobile */
+
+@media (max-width:767px){}
+
+
+
+@media (min-width:980px) and (max-width:1200px){}
+
+
+@media only screen and (max-width : 360px) and (orientation: portrait){
+
+}
+
+@media only screen and (max-width : 640px) and (orientation: landscape){
+
+}
+
+@media only screen and (max-width : 480px) and (orientation: landscape){
+
+}
+
+
+
+
+
+
+
+
+/* iPhone 6 & iPhone 6 Plus */
+@media (min-width:641px) and (max-width:767px){
+
+}
+
+
+/* iPhone 5 & Big Smart Phones */
+@media (min-width:481px) and (max-width:640px){
+
+}
+
+/* Small Smart Phones */
+@media (max-width:360px){}
+
+
